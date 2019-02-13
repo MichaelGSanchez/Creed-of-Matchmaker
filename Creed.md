@@ -1,4 +1,4 @@
-# www.creedthoughts.gov.www/creedthoughts
+# Our Code Creed
 
 ## Objective
 
